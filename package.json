@@ -1,0 +1,20 @@
+{
+  "name": "dndatabase",
+  "version": "1.0.0",
+  "description": "This is a DND database and character builder.",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "DNDatabase"
+  },
+  "author": "Eric Tashji",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.10.0"
+  }
+}
